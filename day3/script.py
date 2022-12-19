@@ -1,4 +1,4 @@
-"""Advent of code 2022 - Day 1"""
+"""Advent of code 2022 - Day 3"""
 from argparse import ArgumentParser
 from pathlib import Path
 import string

@@ -1,4 +1,4 @@
-"""Advent of code 2022 - Day 2"""
+"""Advent of code 2022 - Day 4"""
 from __future__ import annotations
 
 from argparse import ArgumentParser
